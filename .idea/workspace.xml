@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9be299c-2de5-43c2-9e95-d9acf3417599" name="Changes" comment="v0.18 HTML report" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.9.9" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-javaagent:C:/Users/TimurGeldiev/.m2/repository/org/aspectj/aspectjweaver/1.9.20.1/aspectjweaver-1.9.20.1.jar" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Y4gmMpw3cssgl01Dr7YJmNrixU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AddProductToCartTest.userAddsProductToCart.executor": "Run",
+    "JUnit.CartValidationTest.executor": "Run",
+    "JUnit.CartValidationTest.oneItemAdditionIntoCartValidation.executor": "Run",
+    "JUnit.LoginTest.loginIntoApplication.executor": "Run",
+    "JUnit.LoginTest.tryLoginIntoApplicationAsLockedUser.executor": "Run",
+    "Maven.TestAutomationProgress [install].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/MyFolder/Test_automation_projects/TestAutomationProgress",
+    "onboarding.tips.debug.path": "C:/MyFolder/Test_automation_projects/TestAutomationProgress/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.26551723",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyFolder\Test_automation_projects\TestAutomationProgress\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="steps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AddProductToCartTest.userAddsProductToCart">
+    <configuration name="AddProductToCartTest.userAddsProductToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationProgress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AddProductToCartTest" />
+      <option name="METHOD_NAME" value="userAddsProductToCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationProgress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CartValidationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartValidationTest.oneItemAdditionIntoCartValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationProgress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CartValidationTest" />
+      <option name="METHOD_NAME" value="oneItemAdditionIntoCartValidation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginIntoApplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationProgress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="METHOD_NAME" value="loginIntoApplication" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.tryLoginIntoApplicationAsLockedUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationProgress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="METHOD_NAME" value="tryLoginIntoApplicationAsLockedUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AllTests" />
+      <item itemvalue="JUnit.AddProductToCartTest.userAddsProductToCart" />
+      <item itemvalue="JUnit.CartValidationTest" />
+      <item itemvalue="JUnit.CartValidationTest.oneItemAdditionIntoCartValidation" />
+      <item itemvalue="JUnit.LoginTest.loginIntoApplication" />
+      <item itemvalue="JUnit.LoginTest.tryLoginIntoApplicationAsLockedUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AddProductToCartTest.userAddsProductToCart" />
+        <item itemvalue="JUnit.LoginTest.tryLoginIntoApplicationAsLockedUser" />
+        <item itemvalue="JUnit.LoginTest.loginIntoApplication" />
+        <item itemvalue="JUnit.CartValidationTest" />
+        <item itemvalue="JUnit.CartValidationTest.oneItemAdditionIntoCartValidation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9be299c-2de5-43c2-9e95-d9acf3417599" name="Changes" comment="" />
+      <created>1699790426696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699790426696</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1699790510864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699790510864</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello World">
+      <created>1699790693455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699790693455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v0.1">
+      <created>1699990445990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699990445990</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v0.2">
+      <created>1700061403630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700061403630</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v0.3">
+      <created>1700167003769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700167003770</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v0.4 small_fixes +loginSelection">
+      <created>1701274775340</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701274775340</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v0.5 loginSelectionFix">
+      <created>1701702407786</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701702407786</updated>
+    </task>
+    <task id="LOCAL-00008" summary="v0.6 productSelection">
+      <created>1701858856959</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701858856959</updated>
+    </task>
+    <task id="LOCAL-00009" summary="v0.7 titleSaving + titles Comparison">
+      <created>1702210753460</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702210753460</updated>
+    </task>
+    <task id="LOCAL-00010" summary="v0.8">
+      <created>1702282602904</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702282602904</updated>
+    </task>
+    <task id="LOCAL-00011" summary="v0.9 loginSteps fixes + lockedUser test">
+      <created>1702461339721</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702461339721</updated>
+    </task>
+    <task id="LOCAL-00012" summary="v0.9 smallFix">
+      <created>1702462280895</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702462280895</updated>
+    </task>
+    <task id="LOCAL-00013" summary="v0.10 smallFix">
+      <created>1704789018526</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704789018526</updated>
+    </task>
+    <task id="LOCAL-00014" summary="v0.11 smallFixes + TestRunner + BatFiles + CorrectionOfWebDriver + StringToIntConverter">
+      <created>1704968702272</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704968702272</updated>
+    </task>
+    <task id="LOCAL-00015" summary="v0.12 variable instead of FileReader for productTitle">
+      <created>1705071158097</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1705071158098</updated>
+    </task>
+    <task id="LOCAL-00016" summary="v0.13 extra TestCases, few items addition">
+      <created>1705328842919</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1705328842919</updated>
+    </task>
+    <task id="LOCAL-00017" summary="v0.14 small fixes">
+      <created>1705330084307</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705330084307</updated>
+    </task>
+    <task id="LOCAL-00018" summary="v0.15 small fixes">
+      <created>1705334284174</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705334284174</updated>
+    </task>
+    <task id="LOCAL-00019" summary="v0.16 new page added + BaseField changes">
+      <created>1705510681004</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1705510681004</updated>
+    </task>
+    <task id="LOCAL-00020" summary="v0.17 CheckoutPage testcase">
+      <created>1705677429673</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1705677429673</updated>
+    </task>
+    <task id="LOCAL-00021" summary="v0.18 HTML report">
+      <created>1710183761888</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1710183761888</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <MESSAGE value="Hello World" />
+    <MESSAGE value="v0.1" />
+    <MESSAGE value="v0.2" />
+    <MESSAGE value="v0.3" />
+    <MESSAGE value="v0.4 small_fixes +loginSelection" />
+    <MESSAGE value="v0.5 loginSelectionFix" />
+    <MESSAGE value="v0.6 productSelection" />
+    <MESSAGE value="v0.7 titleSaving + titles Comparison" />
+    <MESSAGE value="v0.8" />
+    <MESSAGE value="v0.9 loginSteps fixes + lockedUser test" />
+    <MESSAGE value="v0.9 smallFix" />
+    <MESSAGE value="v0.10 smallFix" />
+    <MESSAGE value="v0.11 smallFixes + TestRunner + BatFiles + CorrectionOfWebDriver + StringToIntConverter" />
+    <MESSAGE value="v0.12 variable instead of FileReader for productTitle" />
+    <MESSAGE value="v0.13 extra TestCases, few items addition" />
+    <MESSAGE value="v0.14 small fixes" />
+    <MESSAGE value="v0.15 small fixes" />
+    <MESSAGE value="v0.16 new page added + BaseField changes" />
+    <MESSAGE value="v0.17 CheckoutPage testcase" />
+    <MESSAGE value="v0.18 HTML report" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.18 HTML report" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestAutomationProgress$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1710181388680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>runners.*</FILTER>
+    </SUITE>
+  </component>
+</project>
